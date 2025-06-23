@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/5alvh/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/5alvh/LeetCode/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/5alvh/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/5alvh/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
